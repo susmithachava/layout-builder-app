@@ -1,0 +1,25 @@
+.nav-container {
+  width: 100%;
+  height: 200px;
+  background-color: #475569;
+  padding-top: 20px;
+  padding-left: 80px;
+}
+.main-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 40px;
+}
+.checkbox-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.box {
+  font-family: 'Roboto';
+  margin-right: 10px;
+}
+label {
+  color: #ffffff;
+  font-size: 12px;
+}
